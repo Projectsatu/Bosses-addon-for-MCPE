@@ -1,229 +1,502 @@
 {
-  "Config": [
-    {
-      "interval": 5,
-      "backup": "unity",
-      "status": true,
-      "link": "https://ipsaya.com/hostinglokasi.php",
+    "Config": [
+      {
+        "interval": 2,
+        "backup": "unity",
+        "status": true,
+        "link": "https://ipsaya.com/hostinglokasi.php",
+        
+        "addon": true,
+        "maps": true,
+        "texture": true,
+        "skin": true,
+        "more": false,
+        
+        "admob_open_ads": "ca-app-pub-3044835834543602/1175193091",
+        "admob_banner": "ca-app-pub-3044835834543602/6427519773xxx",
+        "admob_inter": "ca-app-pub-3044835834543602/3801356434",
+        "admob_native": "ca-app-pub-3044835834543602/2488274769",
+       
+        
+        "unity_banner": "Banner_Android",
+        "unity_inter": "Interstitial_Android",
+        
+        
+        "applovin_banner": "unitid",
+        "applovin_inter": "unitid",
+        "applovin_native": "unitid",
+        
+        "ironsource_banner": "1215fccad",
+        "ironsource_inter": "1215fccad"
+        
+        
+      }
+    ],
+    "Addon": [
+        {
+            "name": "Soul Addon [v1.0.9, 1.17 Support!]",
+            "role": "The Soul Addon is an addon that adds new armor, weapons, tools, bosses, and more to the game, all with special abilities and effects. Such as, the Soul Boss. with 2,000 health, and the Soul Dragon with 5,000. Don't worry though. as the new armor/weapons will get you powerful enough to engage these foes.",
+            "image": "https://kossandroid.com/Data Android/Minecraft/Bosses/2/3.png",
+            "file_url": "https://kossandroid.com/Data Android/Minecraft/Bosses/2/Soul Addon v1.0.9.mcaddon",
+            "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Bosses/2/2.png",
+            "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Bosses/2/1.png"
+        },
+        {
+            "name": "Turkey Boss",
+            "role": "Hunt Turkey, gather resources, survive, and finally fight the Turkey Boss!! Basically in this mod, you are a pilgrim and you must get your prey, Turkey. This Mod adds 3 new turkeys, 3 new food, 3 new weapons, and 2 new items. Use these resources to your advantage and win the war.",
+            "image": "https://kossandroid.com/Data Android/Minecraft/Bosses/3/3.png",
+            "file_url": "https://kossandroid.com/Data Android/Minecraft/Bosses/3/Turkey_Boss_Mod_Published_21.mcaddon",
+            "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Bosses/3/2.png",
+            "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Bosses/3/1.png"
+        },
+        {
+            "name": "JourneyCraft Accessories Update",
+            "role": "Bored with vanilla MC? Then this add-on is perfect for you. This addon adds 30+ weapons, 10+ bosses, 25+ materials to be used into your Minecraft! This add-on was inspired by Terraria which explains why there is some Terraria stuff in this addon.",
+            "image": "https://kossandroid.com/Data Android/Minecraft/Bosses/5/3.png",
+            "file_url": "https://kossandroid.com/Data Android/Minecraft/Bosses/5/JourneyCraft Accessories Update MASTERMODE_1592980995048.mcaddon",
+            "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Bosses/5/2.png",
+            "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Bosses/5/1.png"
+        },
+        {
+            "name": "Zombie Boss Addon - Harder Than It Looks",
+            "role": "This addon adds a new boss to the game, probably equivalent to a Bedrock wither. Even a full netherite armor cannot protect you! Mua ha ha ha ha!!   Any ways, I hope this new boss is challenging for you, it has 2 special attacks so be careful....I Make Addons/Videos like this weekly, please encourage me by subscribing my YouTube Channel - Anni boy, you can put your addon suggestions in my latest video's comment section. It MIGHT be that I stop making addons like these so please subscribe ",
+            "image": "https://kossandroid.com/Data Android/Minecraft/Bosses/6/4.jpeg",
+            "file_url": "https://kossandroid.com/Data Android/Minecraft/Bosses/6/Zombie Boss Addon.mcaddon",
+            "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Bosses/6/3.png",
+            "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Bosses/6/1.png"
+        },
+        {
+            "name": "Terrible World (Humanoid Terrors)",
+            "role": "Have you ever wanted to see monsters from movies and myths in your world? This add-on will give you this opportunity.Adding monsters from movies and myths to minecraft.Such as: Wendigo, Rake, Alien, Siren head.",
+            "image": "https://kossandroid.com/Data Android/Minecraft/Bosses/8/3.png",
+            "file_url": "https://kossandroid.com/Data Android/Minecraft/Bosses/8/T_W.mcaddon",
+            "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Bosses/8/2.png",
+            "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Bosses/8/1.png"
+        },
+        {
+            "name": "V2.1 The Sky World Addon",
+            "role": "The Sky World Addon is an addon that adds an infinitely generating sky lands above the overworld. It features new bosses, ores, and weapons. This will give an optional experience above your overworld to mess with.",
+            "image": "https://kossandroid.com/Data Android/Minecraft/Bosses/10/3.png",
+            "file_url": "https://kossandroid.com/Data Android/Minecraft/Bosses/10/Mc v2.1 sky world addon.mcaddon",
+            "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Bosses/10/2.png",
+            "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Bosses/10/1.png"
+        },
+        {
+            "name": "V4: Ruby Expansion Addon",
+            "role": "This addon brings back the old scrapped ruby with a twist. The ruby seems to have some sort of fire-like abilities. It may function differently than what you may initially expect.",
+            "image": "https://kossandroid.com/Data Android/Minecraft/Bosses/11/3.png",
+            "file_url": "https://kossandroid.com/Data Android/Minecraft/Bosses/11/Mc v4 ruby expansion addon.mcaddon",
+            "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Bosses/11/2.png",
+            "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Bosses/11/1.png"
+        },
+        {
+            "name": "Wither Storm Add-on",
+            "role": "The Wither Storm Add-on turns the wither boss into a large and frightening boss known in Minecraft Story Mode as the Wither Storm. It's like 20 times larger than the wither boss and also much more powerful. It's the ultimate challenge for anyone considering themselves a good fighter and want to find out how far their skills can take them. If you have the guts to challenge it let us know in the comments if you survived!",
+            "image": "https://kossandroid.com/Data Android/Minecraft/Bosses/12/3.jpg",
+            "file_url": "https://kossandroid.com/Data Android/Minecraft/Bosses/12/Wither Storm Purple Add-on v3_0.mcaddon",
+            "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Bosses/12/2.jpg",
+            "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Bosses/12/1.jpg"
+        },
+        {
+            "name": "Disciples of The Void: Volume II",
+            "role": "This is a continuation of my first addon:Disciples of The Void.With five new bosses, five new weapons with unique ability’s. This addon adds a few new challenges to the game and gives you an edge to the end along the way!",
+            "image": "https://kossandroid.com/Data Android/Minecraft/Bosses/15/3.png",
+            "file_url": "https://kossandroid.com/Data Android/Minecraft/Bosses/15/DOTV VOLUME II.mcaddon",
+            "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Bosses/15/2.png",
+            "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Bosses/15/1.png"
+        },
+        {
+            "name": "",
+            "role": "It's an addon just for adventuring and  building civilization it adds new villager types new monster, new weapons, and much more it will also add skills and other stuff in the future this addon is somewhat inspired by the things in this list: darkest dungeons tensure shield hero",
+            "image": "https://kossandroid.com/Data Android/Minecraft/Bosses/16/3.png",
+            "file_url": "https://kossandroid.com/Data Android/Minecraft/Bosses/16/darkness_depths_new_update.mcaddon",
+            "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Bosses/16/2.png",
+            "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Bosses/16/1.png"
+        },
+        {
+            "name": "Operation Senatio Parasite Addon V2 (The Bigger Threat Update) (B) ",
+            "role": "This addon adds parasite and biomes to Minecraft PE/BE. If you want an apocalypse theme, this addon is for you. This addon adds many mobs, biomes, bosses, and weapons. This addon was inspired from Scape and Run Parasites Mod by Dhanantry in Minecraft Java Edtition. Yeah i was inspired from this mod.",
+            "image": "https://kossandroid.com/Data Android/Minecraft/Bosses/19/3.jpeg",
+            "file_url": "https://kossandroid.com/Data Android/Minecraft/Bosses/19/OperationSV2(BE).mcaddon",
+            "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Bosses/19/2.jpeg",
+            "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Bosses/19/1.jpeg"
+        },
+        {
+            "name": "Operation Senatio Parasite Addon V2 (The Bigger Threat Update) (R)",
+            "role": "This addon adds parasite and biomes to Minecraft PE/BE. If you want an apocalypse theme, this addon is for you. This addon adds many mobs, biomes, bosses, and weapons. This addon was inspired from Scape and Run Parasites Mod by Dhanantry in Minecraft Java Edtition. Yeah i was inspired from this mod.",
+            "image": "https://kossandroid.com/Data Android/Minecraft/Bosses/19/4.jpeg",
+            "file_url": "https://kossandroid.com/Data Android/Minecraft/Bosses/19/OperationSV2(RE).mcaddon",
+            "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Bosses/19/6.jpeg",
+            "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Bosses/19/4.jpeg"
+        },
+        {
+            "name": "Atmospheric: Underwater",
+            "role": "This a first part of the Atmospheric Modpack, which adds content from Minecraft Dungeons to Minecraft: Bedrock!This part adds content from Hidden Depths DLC - adds sea mobs, blocks and items. This version is not final - after the release of the full Atmospheric modpack, a map will appear on which sea generation will be implemented!",
+            "image": "https://kossandroid.com/Data Android/Minecraft/Bosses/21/3.jpeg",
+            "file_url": "https://kossandroid.com/Data Android/Minecraft/Bosses/21/AtmosphericUnderwater.mcaddon",
+            "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Bosses/21/2.png",
+            "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Bosses/21/1.png"
+        },
+        {
+            "name": "Atmospheric: Firelands",
+            "role": "This a second part of the Atmospheric Modpack, which adds content from Minecraft Dungeons to Minecraft: Bedrock!This part adds content from Flames of the Nether DLC - adds few nether mobs and blocks for nether biomes! After the release of the Atmospheric modpack in the map released for it, there will be a new generation of the nether. Before that, there may be updates - bug fixes and addition of items, for example sawblade.",
+            "image": "https://kossandroid.com/Data Android/Minecraft/Bosses/28/3.png",
+            "file_url": "https://kossandroid.com/Data Android/Minecraft/Bosses/28/AtmosphFirelands.mcaddon",
+            "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Bosses/28/2.png",
+            "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Bosses/28/1.png"
+        }
+    ],
+    "Map": [
+        {
+            "name": "Dungeon: Triple Towers",
+            "role": "Dungeons: Triple Towers is a dungeon style role-playing map with puzzles, traps, trickery, monster fights, boss fights, and more! This is the first of this (potential) series of my Dungeons maps, and my first completed map (and map posted here).",
+            "image": "https://kossandroid.com/Data Android/Minecraft/Bosses/18/3.png",
+            "file_url": "https://kossandroid.com/Data Android/Minecraft/Bosses/18/Dungeon_-0Triple-Towers_1606866792.mcworld",
+            "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Bosses/18/2.png",
+            "imgcoverdua": "https://kossandroid.comData Android/Minecraft/Bosses/18/1.png/"
+        }
+    ],
+    "Texture": [
+        {
+            "name": "Norm Boss Battles - Double Content Update (B)",
+            "role": "You Must Download the Behavior AND the Resource pack. This pack adds new boss battles, a new items and a new sword (Blade of Buffs). I got comments saying that pack be bad and stuff. Then I got comments saying keep up the good work. So I went and did something that I'm good at - not creating new mobs. Despite getting Blockbench as per suggestion I struggled with 3d models. So, I finally update the pack with double the content. Not what people want but, I'm trying. This was just lying around in my files - I haven't worked on this in forever - apart from fixing the few item textures there probably won't be another Update",
+            "image": "https://kossandroid.com/Data Android/Minecraft/Bosses/1/3.png",
+            "file_url": "https://kossandroid.com/Data Android/Minecraft/Bosses/1/Norm Boss Battles behavior V1.1.mcpack",
+            "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Bosses/1/2.png",
+            "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Bosses/1/1.png"
+        },
+        {
+            "name": "Norm Boss Battles - Double Content Update (R)",
+            "role": "You Must Download the Behavior AND the Resource pack. This pack adds new boss battles, a new items and a new sword (Blade of Buffs). I got comments saying that pack be bad and stuff. Then I got comments saying keep up the good work. So I went and did something that I'm good at - not creating new mobs. Despite getting Blockbench as per suggestion I struggled with 3d models. So, I finally update the pack with double the content. Not what people want but, I'm trying. This was just lying around in my files - I haven't worked on this in forever - apart from fixing the few item textures there probably won't be another Update",
+            "image": "https://kossandroid.com/Data Android/Minecraft/Bosses/1/6.png",
+            "file_url": "https://kossandroid.com/Data Android/Minecraft/Bosses/1/Norm Boss Battles resources V1.1.mcpack",
+            "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Bosses/1/5.png",
+            "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Bosses/1/4.png"
+        },
+        {
+            "name": "More Boss Add-on",
+            "role": "Have you ever feel Minecraft is too easy? Not enough bosses? Well this add-on got you covered, this add-on add 4 more bosses each needed to be defeated to finish the game.",
+            "image": "https://kossandroid.com/Data Android/Minecraft/Bosses/4/3.jpeg",
+            "file_url": "https://kossandroid.com/Data Android/Minecraft/Bosses/4/MoreBossAdbehaviorupdate3.mcpack",
+            "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Bosses/4/2.jpeg",
+            "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Bosses/4/1.jpeg"
+        },
+        {
+            "name": "More Boss Add-on",
+            "role": "Have you ever feel Minecraft is too easy? Not enough bosses? Well this add-on got you covered, this add-on add 4 more bosses each needed to be defeated to finish the game.",
+            "image": "https://kossandroid.com/Data Android/Minecraft/Bosses/4/6.jpeg",
+            "file_url": "https://kossandroid.com/Data Android/Minecraft/Bosses/4/MoreBossAdresourceupdate3.mcpack",
+            "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Bosses/4/5.jpeg",
+            "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Bosses/4/4.jpeg"
+        },
+        {
+            "name": "Elemental Bosses Add-on (B)",
+            "role": "This addon brings five amazing bosses to Minecraft PE and each of them have their unique attack ability. One cool feature is that most of them can be spawned by a summoning ritual which consists of killing a specific type of mob. You can of course also use spawn eggs to summon them but the killing ritual definitely adds to the experience!",
+            "image": "https://kossandroid.com/Data Android/Minecraft/Bosses/7/3.jpg",
+            "file_url": "https://kossandroid.com/Data Android/Minecraft/Bosses/7/elemental-bosses-behavior.mcpack",
+            "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Bosses/7/2.jpg",
+            "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Bosses/7/1.jpg"
+        },
+        {
+            "name": "Elemental Bosses Add-on (R)",
+            "role": "This addon brings five amazing bosses to Minecraft PE and each of them have their unique attack ability. One cool feature is that most of them can be spawned by a summoning ritual which consists of killing a specific type of mob. You can of course also use spawn eggs to summon them but the killing ritual definitely adds to the experience!",
+            "image": "https://kossandroid.com/Data Android/Minecraft/Bosses/7/3.jpg",
+            "file_url": "https://kossandroid.com/Data Android/Minecraft/Bosses/7/elemental-bosses-resources.mcpack",
+            "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Bosses/7/2.jpg",
+            "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Bosses/7/1.jpg"
+        },
+        {
+            "name": "Mine-NameTagBoss Addon",
+            "role": "This is an addon which implements eight different bosses in-game and all of them can be summoned by using name tags. Even though all of the bosses are incredibly dangerous, it's actually quite lucrative to fight them since they drop some amazing loot which you would otherwise have to work several days in Minecraft to obtain.",
+            "image": "https://kossandroid.com/Data Android/Minecraft/Bosses/13/3.jpg",
+            "file_url": "https://kossandroid.com/Data Android/Minecraft/Bosses/13/(Behavior) Mine-NameTagBoss.mcpack",
+            "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Bosses/13/2.jpg",
+            "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Bosses/13/1.jpg"
+        },
+        {
+            "name": "Mine-NameTagBoss Addon",
+            "role": "This is an addon which implements eight different bosses in-game and all of them can be summoned by using name tags. Even though all of the bosses are incredibly dangerous, it's actually quite lucrative to fight them since they drop some amazing loot which you would otherwise have to work several days in Minecraft to obtain.",
+            "image": "https://kossandroid.com/Data Android/Minecraft/Bosses/13/3.jpg",
+            "file_url": "https://kossandroid.com/Data Android/Minecraft/Bosses/13/(Behavior) Mine-NameTagBoss.mcpack",
+            "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Bosses/13/2.jpg",
+            "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Bosses/13/1.jpg"
+        },
+        {
+            "name": "Entity 303 Boss Addon",
+            "role": "Entity 303 is a creepypasta which was (much similar to Herobrine) created just to scare people. Even though there have been hundreds (or maybe even thousands) of sightings of these creatures all of them are most likely fake as there have been no evidence to prove that they actually exist in-game (except through mods or addons like this one). This addon replaces the Wither Boss with the Entity 303 Boss. He is much larger than the Wither Boss and also a bit more dangerous.",
+            "image": "https://kossandroid.com/Data Android/Minecraft/Bosses/14/3.jpg",
+            "file_url": "https://kossandroid.com/Data Android/Minecraft/Bosses/14/Entity303_Resource.mcpack",
+            "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Bosses/14/2.jpg",
+            "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Bosses/14/1.jpg"
+        },
+        {
+            "name": "Entity 303 Boss Addon",
+            "role": "Entity 303 is a creepypasta which was (much similar to Herobrine) created just to scare people. Even though there have been hundreds (or maybe even thousands) of sightings of these creatures all of them are most likely fake as there have been no evidence to prove that they actually exist in-game (except through mods or addons like this one). This addon replaces the Wither Boss with the Entity 303 Boss. He is much larger than the Wither Boss and also a bit more dangerous.",
+            "image": "https://kossandroid.com/Data Android/Minecraft/Bosses/14/3.jpg",
+            "file_url": "https://kossandroid.com/Data Android/Minecraft/Bosses/14/Entity303_Resource.mcpack",
+            "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Bosses/14/2.jpg",
+            "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Bosses/14/1.jpg"
+        },
+        {
+            "name": "Minecraft Expanded: A Growing Overhaul REVIVAL (B)",
+            "role": "I am introducing an addon that I hope will completely change the way many people play Minecraft. My idea is to get more people into playing with their friends. I wanted to do that by adding a series of bosses and interactions that are challenging and require extra thinking.",
+            "image": "https://kossandroid.com/Data Android/Minecraft/Bosses/20/3.jpeg",
+            "file_url": "https://kossandroid.com/Data Android/Minecraft/Bosses/20/Minecraft_Expanded_Revival_behavior_pack.mcpack",
+            "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Bosses/20/2.jpeg",
+            "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Bosses/20/1.jpeg"
+        },
+        {
+            "name": "Minecraft Expanded: A Growing Overhaul REVIVAL (R)",
+            "role": "I am introducing an addon that I hope will completely change the way many people play Minecraft. My idea is to get more people into playing with their friends. I wanted to do that by adding a series of bosses and interactions that are challenging and require extra thinking.",
+            "image": "https://kossandroid.com/Data Android/Minecraft/Bosses/20/3.jpeg",
+            "file_url": "https://kossandroid.com/Data Android/Minecraft/Bosses/20/Minecraft_Expanded_Revival_resourcepack.mcpack",
+            "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Bosses/20/2.jpeg",
+            "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Bosses/20/1.jpeg"
+        },
+        {
+            "name": "Magician Supreme Boss Add-on (B)",
+            "role": "This add-on turns the swamp biome into something much more dangerous to explore since sometimes you'll find the Magician Supreme Boss wandering around there. Even though he has a striking resemblance to Santa Claus you will do best to avoid him at any cost since he is very dangerous and will ultimately try to kill you.",
+            "image": "https://kossandroid.com/Data Android/Minecraft/Bosses/23/3.jpg",
+            "file_url": "https://kossandroid.com/Data Android/Minecraft/Bosses/23/Magician Supreme Boss Behaviors.mcpack",
+            "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Bosses/23/2.jpg",
+            "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Bosses/23/1.jpg"
+        },
+        {
+            "name": "Magician Supreme Boss Add-on (R)",
+            "role": "This add-on turns the swamp biome into something much more dangerous to explore since sometimes you'll find the Magician Supreme Boss wandering around there. Even though he has a striking resemblance to Santa Claus you will do best to avoid him at any cost since he is very dangerous and will ultimately try to kill you.",
+            "image": "https://kossandroid.com/Data Android/Minecraft/Bosses/23/3.jpg",
+            "file_url": "https://kossandroid.com/Data Android/Minecraft/Bosses/23/Magician Supreme Boss Resources.mcpack",
+            "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Bosses/23/2.jpg",
+            "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Bosses/23/1.jpg"
+        },
+        {
+            "name": "Fractured World Addon (B)",
+            "role": "This add-on features all of the mobs which were included in the Fractured World adventure map. All new mobs have complete new models and textures which creates a whole new experience in the Overworld (or wherever else you can find them). Most of them are quite powerful, and some even are considered bosses, so this is a great option for anyone who is looking for new challenges in Minecraft.",
+            "image": "https://kossandroid.com/Data Android/Minecraft/Bosses/24/1.jpg",
+            "file_url": "https://kossandroid.com/Data Android/Minecraft/Bosses/24/FracturedWorld_Behavior.mcpack",
+            "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Bosses/24/1.jpg",
+            "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Bosses/24/1.jpg"
+        },
+        {
+            "name": "Fractured World Addon (R)",
+            "role": "This add-on features all of the mobs which were included in the Fractured World adventure map. All new mobs have complete new models and textures which creates a whole new experience in the Overworld (or wherever else you can find them). Most of them are quite powerful, and some even are considered bosses, so this is a great option for anyone who is looking for new challenges in Minecraft.",
+            "image": "https://kossandroid.com/Data Android/Minecraft/Bosses/24/1.jpg",
+            "file_url": "https://kossandroid.com/Data Android/Minecraft/Bosses/24/FracturedWorld_resource.mcpack",
+            "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Bosses/24/1.jpg",
+            "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Bosses/24/1.jpg"
+        },
+        {
+            "name": "The Ender Boss Addon (B)",
+            "role": "The Ender Boss is the lord of all Endermen and they are never late to come and assist their lords when a fight breaks out. It's one of the most dangerous mobs which you can possibly find spawning in the Overworld. It has most abilities which the Endermen have but with the addition of shooting fireballs, more strength and other things to just make it a total nightmare.",
+            "image": "https://kossandroid.com/Data Android/Minecraft/Bosses/25/3.jpg",
+            "file_url": "https://kossandroid.com/Data Android/Minecraft/Bosses/25/Ender Boss Addon Bahavior.mcpack",
+            "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Bosses/25/2.jpg",
+            "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Bosses/25/1.jpg"
+        },
+        {
+            "name": "The Ender Boss Addon (R)",
+            "role": "The Ender Boss is the lord of all Endermen and they are never late to come and assist their lords when a fight breaks out. It's one of the most dangerous mobs which you can possibly find spawning in the Overworld. It has most abilities which the Endermen have but with the addition of shooting fireballs, more strength and other things to just make it a total nightmare.",
+            "image": "https://kossandroid.com/Data Android/Minecraft/Bosses/25/3.jpg",
+            "file_url": "https://kossandroid.com/Data Android/Minecraft/Bosses/25/Ender Boss Addon Resource.mcpack",
+            "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Bosses/25/2.jpg",
+            "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Bosses/25/1.jpg"
+        },
+        {
+            "name": "End King Boss Addon (0.17.0 Only!) (Texture)",
+            "role": "The End King is one of the toughest bosses you can fight in Minecraft PE. It has more health than the ender dragon and it got unique attacking abilities which definitely will make you struggle. However, if you do have what it takes to defeat this incredible boss then you will be rewarded by plenty.",
+            "image": "https://kossandroid.com/Data Android/Minecraft/Bosses/26/3.jpg",
+            "file_url": "https://kossandroid.com/Data Android/Minecraft/Bosses/26/End Boss (Texture).mcpack",
+            "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Bosses/26/2.jpg",
+            "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Bosses/26/1.jpg"
+        },
+        {
+            "name": "End King Boss Addon (0.17.0 Only!) (Add-on)",
+            "role": "The End King is one of the toughest bosses you can fight in Minecraft PE. It has more health than the ender dragon and it got unique attacking abilities which definitely will make you struggle. However, if you do have what it takes to defeat this incredible boss then you will be rewarded by plenty.",
+            "image": "https://kossandroid.com/Data Android/Minecraft/Bosses/26/3.jpg",
+            "file_url": "https://kossandroid.com/Data Android/Minecraft/Bosses/26/End Boss (Add-On).mcpack",
+            "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Bosses/26/2.jpg",
+            "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Bosses/26/1.jpg"
+        },
+        {
+            "name": "Arid V1.1.1 (B)",
+            "role": "Arid is a biome overhaul addon that adds tons of new content into Desert biomes. You should hopefully find deserts more enjoyable and rewarding to explore. In Arid you will find new ores, dungeons, mobs, bosses, cool weapons, and lots of other content.",
+            "image": "https://kossandroid.com/Data Android/Minecraft/Bosses/27/3.png",
+            "file_url": "https://kossandroid.com/Data Android/Minecraft/Bosses/27/Arid V1.1.1 BP.mcpack",
+            "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Bosses/27/2.png",
+            "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Bosses/27/1.png"
+        },
+        {
+            "name": "Arid V1.1.1 (R)",
+            "role": "Arid is a biome overhaul addon that adds tons of new content into Desert biomes. You should hopefully find deserts more enjoyable and rewarding to explore. In Arid you will find new ores, dungeons, mobs, bosses, cool weapons, and lots of other content.",
+            "image": "https://kossandroid.com/Data Android/Minecraft/Bosses/27/3.png",
+            "file_url": "https://kossandroid.com/Data Android/Minecraft/Bosses/27/Arid V1.1.1 RP.mcpack",
+            "imgcoversatu": "https://kossandroid.com/Data Android/Minecraft/Bosses/27/2.png",
+            "imgcoverdua": "https://kossandroid.com/Data Android/Minecraft/Bosses/27/1.png"
+        }
+    ],
+    "Skins": [
       
-      "addon": false,
-      "maps": false,
-      "texture": false,
-      "skin": true,
-      "more": false,
-      
-      "admob_open_ads": "ca-app-pub-3940256099942544/3419835294xxx",
-      "admob_banner": "ca-app-pub-3940256099942544/6300978111",
-      "admob_inter": "ca-app-pub-3940256099942544/1033173712",
-      "admob_native": "ca-app-pub-3940256099942544/2247696110",
-     
-      
-      "unity_banner": "Banner_Android",
-      "unity_inter": "Interstitial_Android",
-      
-      
-      "applovin_banner": "unitid",
-      "applovin_inter": "unitid",
-      "applovin_native": "unitid",
-      
-      "ironsource_banner": "1215fccad",
-      "ironsource_inter": "1215fccad"
-      
-      
-    }
-  ],
-  "Addon": [
-    {
-      "name": "yCreatures Origins V3.0.10",
-      "role": "yCreatures, an amazing super complete add-on that brings even more fun to your Minecraft worlds!! \n \n This addon contains several new animals for your game, some cute, some not so friendly, but all amazing and super fun, with various varieties of animation, behavior, models and textures.",
-      "image": "https://hunterlinedev.com/Hunter Line/Origins mod for MCPE/Data/Addons/new/Allay/2/1.png",
-      "file_url": "https://hunterlinedev.com/Hunter Line/Origins mod for MCPE/Data/Addons/new/Allay/2/Minecon_2021_Mobs_Addon.mcaddon",
-      "imgcoversatu": "https://hunterlinedev.com/Hunter Line/Origins mod for MCPE/Data/Addons/new/Allay/2/2.png",
-      "imgcoverdua": "https://hunterlinedev.com/Hunter Line/Origins mod for MCPE/Data/Addons/new/Allay/1/3.png"
-    }
-  ],
-  "Map": [
-    {
-      "name": "505 The Originadwddas",
-      "role": "Have you ever wondered that Entity_505 it’s a rip off about Entity303? If yes then I suggest you play this map before say anything else and explore what will happen… \n \n This is another map I create and this time i will show you how the Entity_505 created everything has their origins but most people don’t care so in this short map you gonna play as me and find out the origins of Entity_505",
-      "image": "https://hunterlinedev.com/Hunter Line/Origins mod for MCPE/Data/Maps/new/Backroom/1/1.jpeg",
-      "file_url": "https://hunterlinedev.com/Hunter Line/Origins mod for MCPE/Data/Maps/new/Backroom/1/TheBackroomsMap_Darkness (1).mcworld",
-      "imgcoversatu": "https://hunterlinedev.com/Hunter Line/Origins mod for MCPE/Data/Maps/new/Backroom/1/2.jpeg",
-      "imgcoverdua": "https://hunterlinedev.com/Hunter Line/Origins mod for MCPE/Data/Maps/new/Backroom/1/3.jpeg"
-    }
-  ],
-  "Texture": [
-    {
-      "name": "Custom Damage Particles V2",
-      "role": "Have you ever wished that bedrock edition had more cool PVP/aesthetic features like the Java Edition? Or maybe you wish to spruce up your bedrock PVP experience, then this pack is perfect for you. Whenever you or another player take damage, unique particles emit. You can choose between now 22 total different settings and color options for even further customizability. ",
-      "image": "https://hunterlinedev.com/Hunter Line/Origins mod for MCPE/Data/Texture/41/empatpuluhsatu.png",
-      "file_url": "https://hunterlinedev.com/Hunter Line/Origins mod for MCPE/Data/Texture/41/damage_particles_v2_by_ambient.mcpack",
-      "imgcoversatu": "https://hunterlinedev.com/Hunter Line/Origins mod for MCPE/Data/Texture/41/delapanpuluhsatu_desc.png",
-      "imgcoverdua": "https://hunterlinedev.com/Hunter Line/Origins mod for MCPE/Data/Texture/41/delapanpuluhdua_desc.png"
-    }
-  ],
-  "Skins": [
+        {
+            "id": 1,
+            "name_skin": "Skin mobs boss",
+            "skin_url": "https://lh3.googleusercontent.com/lnajfTHTZUbrKzWmp6oJkBrTE1LoF5dyTBbWR6CTbtdCwI5jK4aZ9OLClZibFy7Kg88RhA8X0Hu9I_bb1Cnf",
+            "view_skin": "https://lh3.googleusercontent.com/k9Za9NFa-BjnnqQ4I8zh9-xpCEYJNvbtv0wPCzddmW_SclZiFjILjaz8Ol34Sof2nI_8UAWyFf9I7F1I856GrQ"
+          },
+          {
+            "id": 2,
+            "name_skin": "Skin mobs boss",
+            "skin_url": "https://lh3.googleusercontent.com/P4u-EqSW4tMFpel51flgbRQHmfDZPJYuDT_e2LxBkw96SY2G02ln7SKCuIkypaJLgUY8XEYjS2_V6k60mnnaoxxVMDwWUoyT_A",
+            "view_skin": "https://lh3.googleusercontent.com/8wB_HaDk03NbRwYjlOedehkFeXsWpLc8htJtZoTyRc492ZWq-nbUmrXYnmn2xlzVey1XCy5S4J55PoGBWEFNskPPsBvOeXr2Ig"
+          },
+          {
+            "id": 3,
+            "name_skin": "Skin mobs boss",
+            "skin_url": "https://lh3.googleusercontent.com/PGOFTHVXyHo8RiL8jHguNXokoMib6tt2mSsIQlGCtqYEsFiBvbE9iLwzTbKvTX9uE7uKpfj_EvHnd8Ruq1r5TQ",
+            "view_skin": "https://lh3.googleusercontent.com/_rxi2u-qtvqe_WfXgRLN06zKOCb0sKo84TqkoCcSicue7N6RCtvGCgfIs4I2YIpFoyUAcq0lLY0J34hoTjQU0w"
+          },
+          {
+            "id": 4,
+            "name_skin": "Skin mobs boss",
+            "skin_url": "https://lh3.googleusercontent.com/z_EP8JdIwmyuuQKXxVM43nKK8f6aYaJHy2hlTdNPSj5qTiF-7RYfcc1OJG2dRbqEaQYk2myANUt3BUF21ZiKLow",
+            "view_skin": "https://lh3.googleusercontent.com/025FQ5Z05A5lcEJyu9O-unTeEre_wpyLJSaohQnqi-TsoSo0F3u-Ps1SHrcg1GcATeHKlttfy52IBoh1AR3x"
+          },
+          {
+            "id": 5,
+            "name_skin": "Skin mobs boss",
+            "skin_url": "https://lh3.googleusercontent.com/HXna5ysjdeXLowI5ydpVIYnBUvV3Ft4lXZLVFQmV8czH_cf5UygOR_cLPJnxgUWxAkh4erRAfzF4Ns7ShbkWhi75kukW0XPylBs",
+            "view_skin": "https://lh3.googleusercontent.com/IiR3yNWRBbYLFskaokv6LnW4OGDaxtuIiICPmIe3l38WpZrl9iLO3au-ZwDkltlH7c0SjlBNyycQW-facygzugUlbxHhvLI34_sl"
+          },
+          {
+            "id": 6,
+            "name_skin": "Skin mobs boss",
+            "skin_url": "https://lh3.googleusercontent.com/uQoEVBAlMso2MI3_j0o-9vtDprA2r4IwzULpwfUkwKrX01aKvvK3LplxObQgn7F6sQijJVkCgl-AcU3mFjzgQno",
+            "view_skin": "https://lh3.googleusercontent.com/LhyTuJYPZqn483fHfDveAT8arGwUxFVKhkVIy-NOqToHP_Kk0iwL6lnnE-E6V-6PRimKoRWMLdSlgoGZ1YJOuw"
+          },
+          {
+            "id": 7,
+            "name_skin": "Skin mobs boss",
+            "skin_url": "https://lh3.googleusercontent.com/Z-7wrgCxErDVRc4B3glz22sfTowbUYKEe8i0Q5CIscWvxHdQmYHB72BxvosAP-71rpcVnuJ_qKsH3tei_w4DR6U",
+            "view_skin": "https://lh3.googleusercontent.com/0qjfRhJNHC3Nm2m_jXHWuQo5IB4p5ZKPixHmNKm_hAzQJhLhYMLW30tl9ldD80b8k8gOb2s0dCloTqFNj0X6V04"
+          },
+          {
+            "id": 8,
+            "name_skin": "Skin mobs boss",
+            "skin_url": "https://lh3.googleusercontent.com/2c_M9McnzQIV9sEgF9t0QbcYd-waOiOQBDqH25yYwBjDlQIAgf4R8jSMg0p_l5Au9GbnTr_1n6K4768e6GdS",
+            "view_skin": "https://lh3.googleusercontent.com/gB0RW3_9HHzTCeqM7y0iD3BuSX8Z7MQh2Yl7RhNirUjytc0jGPDG6m2vdR7CoZno1kuDWfHwe1CCQZN_JMN-Kw"
+          },
+          {
+            "id": 9,
+            "name_skin": "Skin mobs boss",
+            "skin_url": "https://lh3.googleusercontent.com/R-IITRDEPorU4KHQ6GSjL6-7j8O4vKWND4Xg_UtS8h-qDb0i_uPfhFhuOdPWFwsJpBxLvD1o565BuxgU3v3m6Q",
+            "view_skin": "https://lh3.googleusercontent.com/8Nv8F4vslgjE6rtyD0te6Is_wp-YTopV6gPTiG_aQxiC24gwAAdw5-8KMcdDsmANMav8u6GOetK2B7UT4SLMHJo"
+          },
+          {
+            "id": 10,
+            "name_skin": "Skin mobs boss",
+            "skin_url": "https://lh3.googleusercontent.com/VHzC3G9hkz8ZI5UGMTo1TJG6kL9fkCuKvvGJS5Wo5YLlvcufBZtkdJN5t24vI3G5HtGxi-Oef8dNzjYrtVCQh1jhBNV9xHGsuQ",
+            "view_skin": "https://lh3.googleusercontent.com/8hsln6sKNXYI7UI17Y1tUlZbPsuMfYvvt0aL_ErNx6qSBhM9H6Aq_EiNNM-OgTqxz2dltho4B1DgdA0DjLIUhkdnckwMUds8YMc"
+          },
+          {
+            "id": 11,
+            "name_skin": "Skin mobs boss",
+            "skin_url": "https://lh3.googleusercontent.com/OGHWEm1GX8rz4dycR_KE6A7V0kJic06LYA6SxiSn-c5JlukMmX11y7WWN1QI5dFK1bg6QLtprA63e9emEIUvFYc",
+            "view_skin": "https://lh3.googleusercontent.com/mx398XbEnQ7YK4o0LM5OmpbDxZtuOMYS4zN8i0fP_D_wHFiF9Tx_j57ULBdOcxpTsGlHac3_xrGs4HukaPwZ6yU"
+          },
+          {
+            "id": 12,
+            "name_skin": "Skin mobs boss",
+            "skin_url": "https://lh3.googleusercontent.com/FGWKB4k34EvR7Hvt9xJYJoEhyoHFQO_BCM7tynYMlaIecixP8pleXooQaIpkbQIKkcyDLMY7fdmfRLIr7h_c",
+            "view_skin": "https://lh3.googleusercontent.com/zJozFwwagepTUUrQfhjvVIvVZYt_cjs1zHdVNRlzQU_HpXz5iC01MxS03AgZxhaSwj-KojqhfLoFpaaYpf2Wwg"
+          },
+          {
+            "id": 13,
+            "name_skin": "Skin mobs boss",
+            "skin_url": "https://lh3.googleusercontent.com/rMW4vHkpK1imtU9mo0QL_mCI44i4VHVUQqgGHUhE1uclfvAcvsjhn5Ar57FtgqHSGKbCLZV0ByJ5ivrZbXPnrQ",
+            "view_skin": "https://lh3.googleusercontent.com/DR519hxSslcBQRpRT2XBqO903ZlLBohYyaqqP308coDhL_9fhRG2Hov8__6xe31_XhCn08GXap-u92YLC7vuIw"
+          },
+          {
+            "id": 14,
+            "name_skin": "Skin mobs boss",
+            "skin_url": "https://lh3.googleusercontent.com/4ihCpy6uHjc44L3whfJ6GoSlrsDusmQJdVyIG_XjW7aF9TMFOZCfQstNssCWNXkzflU9gnhCPgPuJSEL2qVpDLWxIZpVLu2s5FQ",
+            "view_skin": "https://lh3.googleusercontent.com/-RKDD3VjuzaRyBTLDsPZoMjyYREy4bwbq6Le8FqEFasYchjNBwipM26FfcWe1ClCZOLRDi2idEy94NIoc2IBilNfuVs75J0TBXQ"
+          },
+          {
+            "id": 15,
+            "name_skin": "Skin mobs boss",
+            "skin_url": "https://lh3.googleusercontent.com/tvFq8w0lsqNSTjTpHxz3q0bXVQLTQdydpNZMNVSVOLIBXzBmWxGLtsw3mpl70QLCzcNUizLC15701WhZynYGKbr2_z0K-eguyg",
+            "view_skin": "https://lh3.googleusercontent.com/d-Fg0mTR7lpPXWLYK6cX1_XS75JL75W-3Ab5nJ04hEN0zf-Tnik8MDIAiSoVnE8Pxj182CC7E2le4DZrdPt3NG3D4aFTs7V5Tt0"
+          },
+          {
+            "id": 16,
+            "name_skin": "Skin mobs boss",
+            "skin_url": "https://lh3.googleusercontent.com/PjxIJ9C9Y4Bn9i_ds2JLeSThGvKr5BYQE7YcwmDQL2xWXxhYsIFSL2YRPZgF9s5JlutHdxROmrKCAM9PwVPfFuRcMyOSpk6v-w",
+            "view_skin": "https://lh3.googleusercontent.com/A-fyLWanmT5denVzcy0TmdJQ92RA8hwKTZpTqGHmoFqPTedRDrOWpAYIGfyrcZnMy4X7bsjVWYUXVYc5TY9v_tBLEssDerWnzQ"
+          },
+          {
+            "id": 17,
+            "name_skin": "Skin mobs boss",
+            "skin_url": "https://lh3.googleusercontent.com/UfnnG_P6ZZaidTD5eyzrqHacTfdlYFx7lytYqytzPVJ52lpOr_orFLOI2jgW2Y-ZY0IZaHd0v8qcTusC5HfP_Q8tJsbNysi02IZN",
+            "view_skin": "https://lh3.googleusercontent.com/Zcp5rBqDBbWCmSv2C4AItiwqe-kBVh4FBNoj9RDbMDdtpebC3thCXQCM6oh0e-iofdPllYIxe6NNTZiFuHVPqmNYAHbSxLQ7KG8"
+          },
+          {
+            "id": 18,
+            "name_skin": "Skin mobs boss",
+            "skin_url": "https://lh3.googleusercontent.com/kObENMoS5oTO-gesTAROkPAwv7yEWXBn16fLdZz6a9oriQy3XOVDnsE32bvhFjTpQ9VzaFLy1WsPaKpvp0x8BIQ55Sa31PVqSJE",
+            "view_skin": "https://lh3.googleusercontent.com/hM1E_Z3QCEp1gQTI8hYzPwL0o1k8ogwrlnMR2HPma9uPQt6sWy-I9V67PSbZfZalluime2HeKyKI6Z2eePNZRaj-VIguKi3mLtI"
+          },
+          {
+            "id": 19,
+            "name_skin": "Skin mobs boss",
+            "skin_url": "https://lh3.googleusercontent.com/s1cEzSOxtXGUVHuiZNidCkGPNlUoYgtK3d0SyK_jHb-XUm22gh2vSDXnIyGiwkGLcUoOwVXZYsR2mzvrdqjMYw",
+            "view_skin": "https://lh3.googleusercontent.com/XwwW2xh99fLoKmBw9hhEOz67-OZu_tOsS_OaK-xZS4v4uu7VVWPMm3R5V5W15oweudJ5vL_miki4a9G_M2Kmfw"
+          },
+          {
+            "id": 20,
+            "name_skin": "Skin mobs boss",
+            "skin_url": "https://lh3.googleusercontent.com/q8QakKp-uqMxUN3hlgUZmlTxTu45yFlZCs3u9rBJVVOZLMI12MJYcmPLmN3VupAsfIbsg3SuSUmJGvLTrtCo",
+            "view_skin": "https://lh3.googleusercontent.com/Cv_JpatMAGQVyU27GBu_VYrboiuOleoF8aNQ6QNEC4Z-5pWFdKBvivnzqbuObHqF9wSc--PZa8jxw8bNvq6uKg"
+          },
+          {
+            "id": 21,
+            "name_skin": "Skin mobs boss",
+            "skin_url": "https://lh3.googleusercontent.com/kE7xaOVRakAT5s0RhxKEWCPO12N5dgOhTpVrrPchel_M5IXRa2n-8u8Vj9mC3Xb1cEq_FJNm1lV64EhTDWog",
+            "view_skin": "https://lh3.googleusercontent.com/71ceUYI0FHEHc-kjKcNmYLXC_Eb5oEZOfe5RJFB2xszoSHtmvDnvXTc9xsoLj40cBn43S7xfRCxjRE5Km-kmDQ"
+          },
+          {
+            "id": 22,
+            "name_skin": "Skin mobs boss",
+            "skin_url": "https://lh3.googleusercontent.com/caFD7deE4HA-XtyYT8BKteG1oAZSWTzDoLDPOuTh35XZLdt4vZZXiQb9EX5JhEKVpUORM9YWs7H4OqzedrTC1w",
+            "view_skin": "https://lh3.googleusercontent.com/37wU2HOx898c9DAAa3tafWvGNZybkmrLLRXPR6GaJ-8pyjYfbrgE8Pjqr1efk7Ysh62B0Bo9RhXXMqUnubaj"
+          },
+          {
+            "id": 23,
+            "name_skin": "Skin mobs boss",
+            "skin_url": "https://lh3.googleusercontent.com/4rC0fNBBlhCYWlB0ZnwfpShBD_2o-tLsy1KlZATIIWs_itqfd75HqNBSmt0slXIbmScHX9cgFtgWtEfyVs6sD5Ek3zxj0dm4Nw",
+            "view_skin": "https://lh3.googleusercontent.com/X9AOvtmKifsirDrrSWxwfG4F0VX4RsmJ792IyC6WniW2QXwLz6UPn4dtiaWFOEKrpuhuHXqEGURupNhAkm-dRhZRlQZTtad4eJs"
+          },
+          {
+            "id": 24,
+            "name_skin": "Skin mobs boss",
+            "skin_url": "https://lh3.googleusercontent.com/i37AUDzml7jlOVTIk1KCgHYZP08j1E_noTRy-D0em4RfudDYrjp9cAVDJwFFBQ50kLjY9_tZlAhlp2Wn38ltOg",
+            "view_skin": "https://lh3.googleusercontent.com/Th6NsVbovOv32J2rN6wBJxRLYjTobhiqmM2WHYfLHDeEnuNVDR_p_G4uxpKXo_NHjQgirbcSqWC8zBC45TKXxw"
+          }
+  
+    ],
+    "More":
+    [
+        
+        
     
-  {
-    "id": 1,
-    "name_skin": "skin 1",
-    "skin_url": "https://lh3.googleusercontent.com/A6j_e2c2zjSopn8i5IQcVqbO1v3p2nfSsjFJk8cFKn9vnlUwWjb_OAQFHm1dM48n2HqvmqGTTPXfCdiHxTloXA",
-    "view_skin": "https://lh3.googleusercontent.com/9OFH_AiYTK4kb_OaGcXltRiJf8vRG1yn7jiMrQwE68X4AJljQj2U6ByySYydeUUJe0M6aCR_3mchh69nDvzpGg"
-  },
-  {
-    "id": 2,
-    "name_skin": "skin 2",
-    "skin_url": "https://lh3.googleusercontent.com/Fl5h-RnZe2EHmneMH4prPMO3mks97NYshPrf0titnlw7N11a3y5GVfRfau3mqwQjD0xyq-usJ53IzNtfU3HUgghdlzCOFJ6fNA",
-    "view_skin": "https://lh3.googleusercontent.com/TODHrjav69Kk3w90WscSwMWbPOYMJh-7g129GP8veNK0bnK7CdFAeVZ2dggXu-kDmfJAsvGgWOhTbLUDNNNq1ZW1mOhnqOEoEQU"
-  },
-  {
-    "id": 3,
-    "name_skin": "skin 3",
-    "skin_url": "https://lh3.googleusercontent.com/zNzTrkt7uNrlgnF_focRJ4XklZJqdIY8JUsg2UHfmLmQF11ebO17_0-OEAAfgDu4YbsXy-p_x1bOMNnvL2tSUtZDZcqB2sQQdAI",
-    "view_skin": "https://lh3.googleusercontent.com/AZKzUtCL1jFyh8lMJarWvqWcW78Yb_NYmbwucjMigyxp_hcpchrfTIdaBKhdH3mGWK_kl8luLgiLgFEfh8YHffYAxTgc7MJZ0T8"
-  },
-  {
-    "id": 4,
-    "name_skin": "skin 4",
-    "skin_url": "https://lh3.googleusercontent.com/e_UimBqdZkw9WuBm_T_dBDHprzsZeO8X6Q1ly8IJrWMPdygB_lL0I4_X3dCCKNiggDBwvwDEfbyrXCQ0HBaIyFJvh7uwadI8Y-V0",
-    "view_skin": "https://lh3.googleusercontent.com/UIxdqgXp4Ieuvz71qtdt9KnLDLh8HjqupYUt1TzWnYRJwXjmxljhJwo5kS5-T7iHuhObsmqkg7ab9iYv3pXmVY1FwlFrIiWumA"
-  },
-  {
-    "id": 5,
-    "name_skin": "skin 5",
-    "skin_url": "https://lh3.googleusercontent.com/eDLYNJPYiTdSD8G0sW8K_Iee4btz_jsnGtpeD8i62jrfUxy8Mg9NYYicgSqKh3ST2OAAu7XzBQCmIpNcTsgYS5ZKdIwECaeBivpf",
-    "view_skin": "https://lh3.googleusercontent.com/sHPfW7FxWaPEUO1IZCdJOdMADbEeBI2sB_tPQX1U0DJHSRmJHUkjzXmwmZ1LTLjeKTNF0NxO8gaRTTW8D924jjG7rk0x3KSayOmT"
-  },
-  {
-    "id": 6,
-    "name_skin": "skin 6",
-    "skin_url": "https://lh3.googleusercontent.com/7gaGvYgGLMju8TgURWTiE8fTEPjdDfLPrxqR11m0qTM-IQlRoAYFb_WQluIyXVUmoSxo8v9uKOfH_UiYxLO0PN3PbJ9otfksMkWt",
-    "view_skin": "https://lh3.googleusercontent.com/Aj_waU-mO35fMZPYigtzR4u0VaM0uQVScireMmYVfKfUGCUPrWeoU2Ux43ZDvUMhMbUWPVL-FWj0LSP4PyPFhpqiYNZeOztIZA"
-  },
-  {
-    "id": 7,
-    "name_skin": "skin 7",
-    "skin_url": "https://lh3.googleusercontent.com/FdExcS4MFWvemxPY-VW_o3-3GVbh894YltVmx5woRG0xN6yikG6gYXyoBCVpzvWkdEhQSGmMBM8z2Es2w0_pZKfc63iKl-dsLA",
-    "view_skin": "https://lh3.googleusercontent.com/SJXsoIdGanrFT8NBMWMEJcSG4PBHIGS6pyWZ82W1W3LI5Dl9iOckxPFuUX6EV_xXZLEiMkishdgbIYdC8RO66_nbYCsPRE26oso"
-  },
-  {
-    "id": 6,
-    "name_skin": "skin 8",
-    "skin_url": "https://lh3.googleusercontent.com/XTyBfW2zmjUNhzLWP0UdhDHcJB71PZqpKAqp3DxZFfxnw_GUA51HBXGQBFKsP8nIX-fEpiZAX7DnE6Po132tImSSrM6HWIkSrjs",
-    "view_skin": "https://lh3.googleusercontent.com/OwXM0UuJtT6j4I-3pZrs8d2rVp1eLiFJdjm67OwDdqjOPtoQp8R_hjqWOP7pvOsFzxmzeW9W1Fz9Bu3DT0xEF9S8BzHFDpjfLhM"
-  },
-  {
-    "id": 9,
-    "name_skin": "",
-    "skin_url": "https://lh3.googleusercontent.com/Jh0U1oN4ROy1WTqQuA9ubz44mRS46DlyMTYbju86pkFVDB1qpaP1IXnReWAGjteY61EBP-YWKyww1vSLiVTCOQ",
-    "view_skin": "https://lh3.googleusercontent.com/aANYCcjllsk4j307Ei2ayMY1Odxy3Fw_9YVW4mqGE8tVHCeWwpFlLCagHu6kU_bvv-1pUsap1T8efTJwKKwRp2MdTfFhH3ghu_g5"
-  },
-  {
-    "id": 10,
-    "name_skin": "",
-    "skin_url": "https://lh3.googleusercontent.com/Ts95HrJ8HEZipbRUfC7G-zZ7IFPmxywmA7uyKnP1Gp3KillFnmpuHd_AdTeUAIY0dSoHPiAlhT-4ZW_c6AFgKBvQB642IOkY4b8",
-    "view_skin": "https://lh3.googleusercontent.com/ppWIah00sZtzCqfd9bt5ddiEvAcqOw9zz87rPXmd_YpCL1fOqZi6EPkbvQnwgqKmzp1YTBZzl57UKgZfsute8c_hwXQUDGLLeW0"
-  },
-  {
-    "id": 11,
-    "name_skin": "",
-    "skin_url": "https://lh3.googleusercontent.com/KeoGWzMNAuNDtMWHXR4D5ztIZUSyMk-UZy9O2pK0bnJpAn3AbW1_pggEzW59eXzLeIzkk1ZRLwyhAEGrpQF8",
-    "view_skin": "https://lh3.googleusercontent.com/YOp4XQruNNjxJFY4W0w6a3qHQ5GSrralnVqe3nh2G513_C4uxlfCWNl6VOV2SbkuY0fF3-vcVqHt9B16I72XoU8"
-  },
-  {
-    "id": 12,
-    "name_skin": "",
-    "skin_url": "https://lh3.googleusercontent.com/Yucejtf7-1B4KVvkRe_FAhZ7UVsK5EhrTxVJIgs3fGur1q6f-82VDBRFJOwr2cHTpkCsJk_u5t0SNRvuo1kATw",
-    "view_skin": "https://lh3.googleusercontent.com/VhPBo4EmC5HpxNO0gC4gmssXYu3q-tMrTe6vfRqFEzQe_R3N-WP_8JFZaQY-KAlf1ZYskprlmE7iK57seVJ6"
-  },
-  {
-    "id": 13,
-    "name_skin": "",
-    "skin_url": "https://lh3.googleusercontent.com/M8j-xz6tt8RF6Y8a7E8tuCPZ3CWaLIzcgB9jEFsEh6DPsre1iy63pdjq-fTCsbaomAXc1cX4hcKVkm9WJ5dC9DQ",
-    "view_skin": "https://lh3.googleusercontent.com/U_Uqsnwdw6urQJegUrVxs4_W-WmRP8agQAcJ36iNrbzFGkwjBSRMyuWk9_iSo7_qEYfTfAA6MRAZBR_q2pnmUg"
-  },
-  {
-    "id": 14,
-    "name_skin": "",
-    "skin_url": "https://lh3.googleusercontent.com/EcG9ffUxabZ1pPvDmAOeCobgoOAdnDShocwwUCdZtme7XM_iGGTLT-HvxrnZBkIBt-qDaeFwAl_RQ-SmCFfX5Ps",
-    "view_skin": "https://lh3.googleusercontent.com/o7-pn4cSVja61dEw4unFPYutknhqvNNyaQb4kXGXyXgTIob14albG0X4cKS-ccBZyfst8Ny5uh50b7lN517MSg"
-  },
-  {
-    "id": 15,
-    "name_skin": "",
-    "skin_url": "https://lh3.googleusercontent.com/IUoB1m64gnzv7Kv7BxR3WhNIgalQQsmm3gleny0LPKOslXvSieVGLt9uRpUGgnKQ9gVaL_sPLWpuIMqQy5e7",
-    "view_skin": "https://lh3.googleusercontent.com/tQ1E1uRn4YVNd-nokt3vCCrhdKdbZ_itwQ_lLdOvcL08Vkc7kYccs5H8ih1_rnoTRjQnA0Ofyr862PNyBv2pDA"
-  },
-  {
-    "id": 16,
-    "name_skin": "",
-    "skin_url": "https://lh3.googleusercontent.com/ffLMh-wxgARonxHHkYUsZPIJG8sNEN4A2fFA9nQKlC_EFtneKQIEj-gYRRUWYXmV9H2gEhLlDTL1z-BylZfBPyQ",
-    "view_skin": "https://lh3.googleusercontent.com/dJhX2PGk7idr8bzCzfPMm3YzwMAwQ-Mg9npRX3kl7jvgCDFVWDYdmUEflG1z79JuxU_gkHbhaJCwhv6fCqHpRw"
-  },
-  {
-    "id": 17,
-    "name_skin": "",
-    "skin_url": "https://lh3.googleusercontent.com/4FEWCSePNsooeKlmBn8zJYmj_-EiBPXGVa6Eg1zzMNjmN_tjqL4m2-MfWBaE99rHrUz2cJT5pA3XFMxZAcdtmq0",
-    "view_skin": "https://lh3.googleusercontent.com/YNMJNmzdZ253hvXgkutNUNlYwfcw7J5pKE5-klgJqNphoxMZC3LhpcDooDtedW-mvXXv2YvN-jU29TiOEstB"
-  },
-  {
-    "id": 18,
-    "name_skin": "",
-    "skin_url": "https://lh3.googleusercontent.com/ETOTVR4pInkMioltWIAgcgMl6AMUD602KP51YBMYuLDXKeGS1Nu5iWTEyOAyBTznqFShrQbJ70W2gTCS5GyRaQ",
-    "view_skin": "https://lh3.googleusercontent.com/7cZIj7k4aAiN_oGrpq6SMpINYM5punnPyG6mRvzSA_l9clIOoKfuf5FGMu715Eqa4xdxU-UYQhVtfcJ27lt82g"
-  },
-  {
-    "id": 19,
-    "name_skin": "",
-    "skin_url": "https://lh3.googleusercontent.com/xTCakFkezVvXsnFxs2e_f9D43T5_PHYNTs68QNXJP7z47M339S3HOWoldpDOZ-Lr6d3r-b18-2gIGdmrYGwKsBQ",
-    "view_skin": "https://lh3.googleusercontent.com/4sJ2ZdL79yBCSZHWJsklD6EK4vRfg5MmzAsAuLKcGvm7FvZwvssRyxnJU2CcSx3xCEQWuJkSqYqV27GBCaD26Q"
-  },
-  {
-    "id": 20,
-    "name_skin": "",
-    "skin_url": "https://lh3.googleusercontent.com/kBYFC7i0z_LAhHR64rIDdd9CTNhQDD3jsflUYTA9RERZn47NPqioVm6NDHyqCYiLQkajUQTLP6_UR8_aJAEm",
-    "view_skin": "https://lh3.googleusercontent.com/6-UtX6emafZOR1afuNUkiIV4w9Fk7om6Rm46nNI_p_8Vwy6v_7DrY8yFZ1zNtgr07BMuLFoH2H8pvM5Hpw3Jxw"
-  },
-  {
-    "id": 21,
-    "name_skin": "",
-    "skin_url": "https://lh3.googleusercontent.com/9BLD2sRM7ANlJ4d4LoISrYVLkxWtRnHpPD3lygoC2gz0_4vJHIF89f1uyOzWUbW4-sEfEI_Mk27AmLjqaHcGzaA",
-    "view_skin": "https://lh3.googleusercontent.com/g5A3xmWIunaN0XKL1H6B7r5j82CJtZHmXASlkuek2rX1E8P2p5GOlUaEkNmlR5yrBO3K379Y4GtM0BnEOeGWpA"
-  },
-  {
-    "id": 22,
-    "name_skin": "",
-    "skin_url": "https://lh3.googleusercontent.com/PtBUVDtfFJKoty-guntrlXYcuz2SghFasB50xcv7g6kd2zZ4yYfjIYO7RcejovmlTfgpo47iJe2h-R7MWauW_B8",
-    "view_skin": "https://lh3.googleusercontent.com/TmeIatpKt--O4swrhWP55WPkVYfmhPQ0DS1Vs5w6L3ltPh22zZ7lNH1RZiEFZ0A4i55h37h5pF3EXiUmoHol"
-  },
-  {
-    "id": 23,
-    "name_skin": "",
-    "skin_url": "https://lh3.googleusercontent.com/FaHLp0ghX_jGkA1pbk5OFSTFfG7knBdzYIpnL2rBJuUwGQO0piQYutxam02nxztMcej4VlsagV1yIx_aH6lh1w",
-    "view_skin": "https://lh3.googleusercontent.com/gkPFlHgvQwxBoBnTRbnctIwemWzVdKTBjfc1VuTUZ81UvHZTjbxMvEl4HgqjggQHZMKubQ1Dz80R0TR5CiJDBTc"
-  },
-  {
-    "id": 24,
-    "name_skin": "",
-    "skin_url": "https://lh3.googleusercontent.com/J8-IMkGDONCZL2KvfPiYrCpHgDMsoORZumEHR35htxmkbPPNFxhv5WnxEhPx8ugS_luEI-R77mRky9rI_i2aulg",
-    "view_skin": "https://lh3.googleusercontent.com/qJ4pkOjcjF4zFzRTcoHLu4g_BhiNp7tMC0mkN3VgJyGk_0Fcl4F4YGSO8uZvQhoOuaYEGNZK2L95GfnOej05"
+      {
+        "id":1,
+        "title":"",
+        "image":"",
+        "link":"https://jsoneditoronline.org/#left=local.xilugi&right=local.dosego"
+      }
+    
+  
+        
+        
+        ]
   }
-
-  ],
-  "More":
-  [
-      
-      
   
-    {
-      "id":1,
-      "title":"",
-      "image":"",
-      "link":"https://jsoneditoronline.org/#left=local.xilugi&right=local.dosego"
-    }
-  
-
-      
-      
-      ]
-}
